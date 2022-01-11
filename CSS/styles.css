@@ -7,9 +7,24 @@ h1.intro {
   font-size: 150px;
 }
 .flashy {
-  font: 200;
-  text-decoration-style: wavy;
+  text-align: justify;
+  color: brown;
   margin: 0px;
   padding: 0px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  width: 75%;
 
+}
+body {
+  background-color: pink;
+  
+}
+h3.best {
+  text-align: justify;
+  font-style: oblique;
+  width: 75%;
+  margin: 0px;
+  padding: 0px;
+  
 }
